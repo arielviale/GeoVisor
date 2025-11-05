@@ -1,0 +1,8 @@
+{
+  "name": "Estimador de Superficie y Mapa",
+  "description": "Una aplicación que utiliza la cámara para cargar una imagen, analizarla con Gemini para estimar el área de una superficie seleccionada y, en una vista separada, muestra la ubicación GPS del usuario en un mapa.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
